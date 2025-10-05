@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a79f322bf18cbf4b89672dc5446a950, type: 3}
+  m_Name: Flyer
+  m_EditorClassIdentifier: 
+  Tier1:
+  - Text: What part of your body helps you think?
+  - Text: What do fish breathe with?
+  - Text: What organ helps you breathe?
+  - Text: What organ helps protect your brain?
+  - Text: How many bones do adult humans have?
+  - Text: Which organ in your body pumps blood to all parts?
+  Tier2:
+  - Text: What country has the Great Wall?
+  - Text: 'Which city is famous for the Eiffel Tower? '
+  - Text: What is the capital city of Thailand?
+  - Text: Where is Mount Fuji located?
+  - Text: What is the capital city of Australia?
+  - Text: 'Where is Big Ben located? '
+  Tier3:
+  - Text: What is the capital city of the country famous for pizza and pasta?
+  - Text: Isaac Newton saw an apple fall and discovered something. What did he discover?
+  - Text: Leonardo da Vinci painted a very famous picture with a woman smiling. What
+      is the name of this painting?
+  - Text: "What is Alexander Graham Bell\u2019s most famous invention?"
+  - Text: Neil Armstrong was the first person to walk on the Moon, where was he from?
+  - Text: What is the capital city of the country famous for sushi?
+  Tier4:
+  - Text: Solar energy comes from what source?
+  - Text: What comes out of a volcano?
+  - Text: Which insect helps with pollination in nature?
+  - Text: What do herbivores eat?
+  - Text: 'Which continent is the Sahara Desert in? '
+  - Text: What does a thermometer measure?
+  Tier5:
+  - Text: Which planet has the biggest rings?
+  - Text: Which planet is closest to the Sun?
+  - Text: Which planet has the longest day?
+  - Text: Which planet is farthest from the Sun?
+  - Text: Which planet is the second biggest planet after jupiter?
+  - Text: "Which planet is called an \u201Cice giant\u201D together with Neptune?"

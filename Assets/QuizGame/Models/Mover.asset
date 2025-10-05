@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a79f322bf18cbf4b89672dc5446a950, type: 3}
+  m_Name: Mover
+  m_EditorClassIdentifier: 
+  Tier1:
+  - Text: "What\u2019s the name of the tool we use to draw straight lines?"
+  - Text: What do we use to check the time?
+  - Text: What small animal builds webs?
+  - Text: "What do you wear when it\u2019s rainy?"
+  - Text: What do we call the meal we eat in the morning?
+  - Text: What do you use to brush your teeth?
+  Tier2:
+  - Text: "When is Children\u2019s Day?"
+  - Text: "When is the Vietnamese Teacher\u2019s Day? "
+  - Text: "When is President Ho Chi Minh\u2019s birthday?"
+  - Text: When does school start in Vietnam?
+  - Text: 'When did President Ho Chi Minh read the Declaration of Independence? '
+  - Text: Where was President Ho Chi Minh born?
+  Tier3:
+  - Text: Which country built the Great Wall?
+  - Text: 'What is the capital of Japan? '
+  - Text: What is the capital of the USA?
+  - Text: What planet is the largest?
+  - Text: What is the name of the longest river on Earth?
+  - Text: What is the name of the tallest mountain?
+  Tier4:
+  - Text: Who works in the White House?
+  - Text: Who invented the light bulb?
+  - Text: 'Who painted the Mona Lisa painting? '
+  - Text: What planet is mostly covered by water?
+  - Text: What comes out of a volcano?
+  - Text: What does the skull protect?
+  Tier5:
+  - Text: What is the largest animal that has ever lived on Earth?
+  - Text: What is the fastest land animal?
+  - Text: What is the largest hot desert in the world?
+  - Text: What do butterflies start as before they change?
+  - Text: Which bird is the largest in the world?
+  - Text: Which bird is the symbol of peace?

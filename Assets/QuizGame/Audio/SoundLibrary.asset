@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5916ea0e12149324694e9f3ade20c5ae, type: 3}
+  m_Name: SoundLibrary
+  m_EditorClassIdentifier: 
+  bgmClips:
+  - {fileID: 8300000, guid: e08ef030d79061e4e8406b7efb3c40b7, type: 3}
+  tickClip: {fileID: 8300000, guid: 6adba7d82e9a0374bb209615e24c8ce0, type: 3}
+  correctClip: {fileID: 8300000, guid: 5e65bc7d8de43254395df001cce51cca, type: 3}
+  timeoutClip: {fileID: 8300000, guid: 8acd07f3e22c9b1439d3c9cb1641b301, type: 3}
+  chooseStarClip: {fileID: 8300000, guid: 502dd6459465cbc4486616fc3bac2663, type: 3}
+  Endclip: {fileID: 8300000, guid: b784091d1e71fbe48bd4f286a84fa265, type: 3}
+  confettiClip: {fileID: 8300000, guid: e97f853ab968fa140ac6aebbc46047c1, type: 3}
+  bgmVolume: 0.274
+  sfxVolume: 0.8
+  tickVolume: 0.4
